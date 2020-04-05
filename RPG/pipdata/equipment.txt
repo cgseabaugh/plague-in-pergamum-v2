@@ -1,0 +1,514 @@
+
+Rusted Shortsword:
+    type: melee weapon
+    patk: 3
+    ratk: 0
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A worn short sword that's clearly seen a lot of use."
+    price: 110
+Knight's Arming Sword:
+    type: melee weapon
+    patk: 6
+    ratk: 0
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: -1
+    refMod: 0
+    lucMod: 0
+    desc: "A trusty straight sword with some weight to it."
+    price: 180
+Shabby Crossbow:
+    type: ranged weapon
+    patk: 0
+    ratk: 3
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A splintering crossbow that still fits comfortably in your hands."
+    price: 110
+Hunter's Longbow:
+    type: ranged weapon
+    patk: 0
+    ratk: 6
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: -1
+    lucMod: 0
+    desc: "A heavy crossbow with considerable power.
+    price: 180
+Warped Cane:
+    type: magic weapon
+    patk: 0
+    ratk: 0
+    matk: 3
+    pdef: 0
+    rdef: 0
+    mdef: 2
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A strange rod that occassionally crackles with energy."
+    price: 110
+Scholarly Wand:
+    type: magic weapon
+    patk: 0
+    ratk: 0
+    matk: 5
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Issued by the Furtive Guild to those deemed worthy."
+    price: 180
+Buckler:
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 1
+    rdef: 1
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc:"A small shield that attaches to your armor, providing extra physical defense."
+    price: 200
+Feathered Bolts:
+    type: accessory:
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 2
+    refMod: 0
+    lucMod: 0
+    desc: "Feathers aid your bolts in accuracy."
+    price: 200
+Bone Talisman:
+    type: accessory:
+    patk: 0
+    ratk: 0
+    matk: 1
+    pdef: 0
+    rdef: 0
+    mdef: 1
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A macabre relic of a dark age. Boosts magic damage and magic defense."
+    price: 200
+Chain Hauberk:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 4
+    rdef: 2
+    mdef: -1
+    accMod: 0
+    refMod: -1
+    lucMod: 0
+    desc: "A hauberk of sturdy chainmail that provides excellent physical defense, but slows you down and is weak to magic."
+    price: 240
+Leather Guise:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 2
+    rdef: 1
+    mdef: 1
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A fitted body of leather that provides well-rounded defenses."
+    price: 240
+Student's Gown:
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 2
+    rdef: -2
+    mdef: 4
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A gown of the apprentice. Enchantments cause it to resist magic and some physical damage, but make it weak to ranged attacks."
+    price: 240
+
+
+Steel Longsword
+    type: melee
+    patk: 8
+    ratk: 0
+    matk: 0
+    pdef: 1
+    rdef: 0
+    mdef: 0
+    accMod: -1
+    refMod: 0
+    lucMod: 0
+    desc: "A sharpened longsword of masterwork quality. It's sturdy enough to provide some protection, though it is quite heavy.
+    price: 420
+Steel Crossbow
+    type: range
+    patk: 0
+    ratk: 8
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A military-grade crossbow of reputable power."
+    price: 420
+Brimming Wand
+    type: magic
+    patk: 0
+    ratk: 0
+    matk: 8
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A gnarled rod that hums gently with magical energies."
+    price: 420
+Kite Shield
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 4
+    rdef: 0
+    mdef: -1
+    accMod: 0
+    refMod: -1
+    lucMod: 0
+    desc: "A rather heavy shield that provides excellent physical protection, though it is weak to magic."
+    price: 600
+Blasting Bolts
+    type: accessory
+    patk: 0
+    ratk: 3
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: -1
+    refMod: 0
+    lucMod: 0
+    desc: "These clumsy bolts add considerable power to each shot."
+    price: 600
+Deep Secrets
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 4
+    pdef: -1
+    rdef: -1
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Secrets buried long ago that enhance magic power in exchange for physical and range defenses."
+    price: 600
+Iron Scale
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 7
+    rdef: 3
+    mdef: -2
+    accMod: 0
+    refMod: -1
+    lucMod: 0
+    desc: "Masterfully crafted scalemail body that provides great physical and ranged defenses, but weakens one to magic."
+    price: 1200
+Rogue's Coat
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 3
+    rdef: 2
+    mdef: 2
+    accMod: 0
+    refMod: 1
+    lucMod: 0
+    desc: "A cunning coat with balanced defenses. It allows for quick movements."
+    price: 1200
+Elegent Suit
+    type: amor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 3
+    rdef: -2
+    mdef: 6
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Sewn with enchanted threads that protect from the physical and the magical. Leaves one susceptible to ranged attacks."
+    price: 1200
+
+
+Flamburge Longsword
+    type: melee
+    patk: 12
+    ratk: 0
+    matk: 0
+    pdef: 2
+    rdef: 0
+    mdef: 0
+    accMod: -2
+    refMod: 0
+    lucMod: 0
+    desc: "A large, undulating blade."
+    price: 1600
+Assailant's Crossbow
+    type: range
+    patk: 2
+    ratk: 10
+    matk: 0
+    pdef: -1
+    rdef: -1
+    mdef: 0
+    accMod: 2
+    refMod: 0
+    lucMod: 0
+    desc: "An unknown vigilante's crossbow."
+    price: 1600
+Obsidian Cane
+    type: magic
+    patk: 0
+    ratk: 0
+    matk: 10
+    pdef: 2
+    rdef: 0
+    mdef: 2
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: 1600
+    price: "A stunning cane carved of pure obsidian."
+Tower Shield
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 6
+    rdef: 0
+    mdef: -2
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: "A shield of tremendous stature."
+    price: 2300
+Cross Guard
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 2
+    rdef: 2
+    mdef: 0
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: "A shield that can be fixed onto a crossbow."
+    price: 2300
+Black Grimoire
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 2
+    pdef: 2
+    rdef: -2
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A mysterious tome with black pages."
+    price: 2300
+Heavy Lamella
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 10
+    rdef: 5
+    mdef: -3
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: "The armor of an elite warrior sect."
+    price: 4000
+Studded Brigadine
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 5
+    rdef: 3
+    mdef: 3
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Flexible plates woven into fine leather."
+    price: 4000
+Magus Robes
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 4
+    rdef: -2
+    mdef: 8
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Robes worn by the masters of many orders."
+    price: 4000
+
+
+Zweihander
+    type: melee
+    patk: 14
+    ratk: 0
+    matk: 0
+    pdef: 3
+    rdef: 0
+    mdef: 0
+    accMod: -2
+    refMod: 0
+    lucMod: 0
+    desc: "A massive blade for only the fiercest of warriors."
+    price: 5500
+Arbalest
+    type: range
+    patk: 0
+    ratk: 12
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: 3
+    refMod: 0
+    lucMod: 0
+    desc: "A machine-operated stake thrower."
+    price: 5500
+Staff of Stars
+    type: magic
+    patk: 0
+    ratk: 0
+    matk: 14
+    pdef: 2
+    rdef: -2
+    mdef: 3
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: "You can feel the very cosmos through this staff..."
+    price: 5500
+Spiked Vambraces
+    type: accessory
+    patk: 3
+    ratk: -1
+    matk: -1
+    pdef: 1
+    rdef: 0
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "Serrated cuffs that cause wicked wounds."
+    price: 7000
+Harpoon Bolts
+    type: accessory
+    patk: 0
+    ratk: 5
+    matk: 0
+    pdef: 0
+    rdef: 0
+    mdef: 0
+    accMod: -2
+    refMod: -1
+    lucMod: 0
+    desc: "Metal stakes that are unstoppable once fired."
+    price: 7000
+Primordial Prophecies
+    type: accessory
+    patk: 0
+    ratk: 0
+    matk: 5
+    pdef: -1
+    rdef: -2
+    mdef: 0
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "A tome enscribed with the words of a prophet."
+    price: 7000
+Platebody Suit
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 12
+    rdef: 8
+    mdef: -3
+    accMod: 0
+    refMod: -2
+    lucMod: 0
+    desc: "A flawless suit of armor."
+    price: 9000
+Manticore Hauberk
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 0
+    pdef: 7
+    rdef: 4
+    mdef: 3
+    accMod: 0
+    refMod: 1
+    lucMod: 0
+    desc: "A suit made from the hide of the mythical Manticore."
+    price: 9000
+Cosmic Regalia
+    type: armor
+    patk: 0
+    ratk: 0
+    matk: 4
+    pdef: 4
+    rdef: -2
+    mdef: 9
+    accMod: 0
+    refMod: 0
+    lucMod: 0
+    desc: "The gown radiates with a profound aura."
+    price: 9000

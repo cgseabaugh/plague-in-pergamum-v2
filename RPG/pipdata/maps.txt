@@ -1,0 +1,5 @@
+Map One: Petrified Woods
+Map Two: City Square
+Map Three: Ministry of Medicine
+Map Four: Cathedral
+Map Five: Dungeon

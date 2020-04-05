@@ -1,0 +1,24 @@
+Level 1 Enemies: (Petrified Woords)
+    Desperate Vagabond
+    Carrion Crow
+    Will of the Whisp
+Level 2 Enemies: (City Square)
+    Cuthroat
+    Rotted Hound
+    Blasphemer
+Level 3 Enemies: (Ministry of Medicine)
+    Restrained Patient
+    Cadaver Corvid
+    Infant Lifeless
+Level 4 Enemies: (Cathedral)
+    Bloodletter
+    Harvester Tick 
+    Juvenile Lifeless
+Level 5 Enemies: (Dungeons)
+    Inquisitor
+    Rat King
+    Sable Beast
+Level 6 Enemies: (Catacombs)
+    Long Lost Crusader
+    Great Eater
+    Deep One

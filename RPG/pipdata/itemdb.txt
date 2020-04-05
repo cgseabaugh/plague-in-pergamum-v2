@@ -1,0 +1,83 @@
+Loot Tables
+    Animal Drops
+    Human Drops
+    Abomination Drops
+    Chest Loot
+    Weapons
+    Armors
+    Trinkets
+    Supplies
+
+Torch, Lockpick, Health Drop, Rusted Shortsword, Knight's Arming Sword, Shabby Crossbow, Hunting Crossbow, Warped Cane, Scholarly Wand, Buckler, Feathered Bolts, Bone Talisman, Chain Hauberk, Leather Guise, Student's Gown
+Health Vial, Steel Longsword, Steel Crossbow, Brimming Wand, Kite Shield, Blasting Bolts, Deep Secrets, Iron Scale, Rogue's Coat, Elegent Suit
+Health Syrum, Flamberge, Assailant's Crossbow, Obsidian Cane, Tower Shield, Grape Shot, Black Grimoire, Heavy Lamella, Studded Brigadine, Magus Robes
+Health Elixir, Zweihander, Arbalest, Staff of Stars, Spiked Vambraces, Harpoon Bolts, Primordial Prophecies, Platebody Suit, Storm Hauberk, Cosmic Regalia
+
+
+    Weapons
+        Level One (Common)
+            Chipped Hatchet         +5patk   +0matk   -1ref
+            Rusted Shortsword       +3patk   +0matk   +1pdef
+            Shabby Stonebow         +2patk   +0matk   +2ref
+            Warped Wand             +1patk   +3matk   +2 max ns
+        Level Two (Uncommon)
+            Flanged Mace            +8patk   +0matk   -1ref
+            Knight's Arming Sword   +5patk   +0matk   +2pdef
+            Light Crossbow          +4patk   +0matk   +3ref
+            Brimming Cane           +2patk   +5matk   +3 max ns
+        Level Three (Masterwork)
+            Morning Star            +11patk  +0matk   -1ref
+            Flamberge               +8patk   +0matk   +2pdef 
+            Heavy Crossbow          +6patk   +0matk   +3ref   +1acc
+            Obsidian Cane           +3patk   +7matk   +4 max ns
+        Level Four (Illustrious)
+            Halberd                 +15patk   +0matk   -2ref
+            Zweihander              +11patk   +0matk   +3pdef
+            Arbalest                +8patk    +0matk   +4ref   +2acc
+            Scrying Staff           +4patk    +11matk  +5 max ns
+        Level Five (Legendary)
+            Maul                    +18patk   +0matk   -3ref
+            Apocrypha               +14patk   +0matk   +2pdef
+            Foreigner's Rifle       +10patk   +0matk   +3ref +2acc
+            Trismegistus            +5patk    +12matk  +4 max ns
+
+    Armors
+        Level One
+            Chain Hauberk
+            Padded Jacket
+            Studious Gown
+        Level Two
+            Reinforced Mail
+            Rogue's Coat
+            Dashing Suit
+        Level Three
+            Heavy Lamella
+            Brigandine
+            Silk Robe
+        Level Four
+            Steel Cuirass
+            Threaded Coat
+            Doctor's Gown
+        Level Five
+            Kasten-Brust
+            Black Hide Jacket
+            Warlock Suit
+
+    Trinkets
+        Buckler
+        Parry Dagger
+        Bone Talisman
+        Kite Shield
+        Lucky Coin
+        Leatherbound Tome
+        Tower Shield
+        Black Griomoire
+
+    Tools
+        Torch
+        Lockpick
+        Health Drop
+        Health Vial
+        Health Syrum
+        Health Elixir
+        Drop of Ichor

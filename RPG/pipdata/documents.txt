@@ -1,0 +1,7 @@
+about
+story
+progression
+stats
+combat
+items
+main menu

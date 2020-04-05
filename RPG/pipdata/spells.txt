@@ -1,0 +1,17 @@
+SPELLS
+    Evocation Spells
+        Invoke Missile
+            damage = (((int/2) + mAtkMod) + 1d3)
+        Immolate
+            damage = (((int/2)*1d3) + mAtkMod)
+            Is source of fire
+    Miracle Spells
+        Candlelight
+            healing = ((int/2) + 1d3)
+        Sunlight
+            healing = ((int/2)  * 1d3)
+    Void Spells
+        Dark Pact
+        Force of Void
+        Enfeeble
+        
